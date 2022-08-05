@@ -1,2 +1,2 @@
-# micro-smart-car
+# micro-smart
 Smart Car with BBC Micro:bit
